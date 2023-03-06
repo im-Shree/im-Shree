@@ -12,7 +12,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
   <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" alt="Machine Learning" />
 </p>
 
-![alt text](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif)
 
   Experienced software developer with expertise in Python and Java. 
   Skilled in algorithm development and implementation of machine learning models 
