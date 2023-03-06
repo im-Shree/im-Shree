@@ -9,7 +9,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" alt="Machine Learning" />
+  <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" alt="Machine Learning" width="400" height="400"/> 
 </p>
 
 
