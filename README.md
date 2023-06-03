@@ -1,4 +1,5 @@
-## Hello, I'm Shrikant 🤟🏼
+## :pray:नमस्कार, :wave:Bonjour, :wave:Konnichiwa,
+## I'm Shrikant 🤟🏼
 <!--
 **im-Shree/im-Shree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
