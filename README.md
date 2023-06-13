@@ -31,12 +31,12 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
  📫 How to reach me: On LinkedIN 👉🏼 [Shrikant](https://linkedin.com/in/shrikant-pande-24ju1987) 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=shrikantpandeiit&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=im-Shree&color=blueviolet)
 <p align="left">
     <img src="https://media.giphy.com/media/Hrm0LJNRkPHDkLIHz9/giphy.gif" alt="jasper" width="200" height="200"/> 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrikantpandeiit&show_icons=true&theme=onedark" alt="GitHub stats" width="500" height="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=im-Shree&show_icons=true&theme=onedark" alt="GitHub stats" width="500" height="500"/>
 </p>
 
 
