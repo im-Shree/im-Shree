@@ -28,7 +28,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
  💬 Ask me about machine learning algorithms and various architectures in the field.
 
- 📫 How to reach me: On LinkedIN 👉🏼 [Shrikant](https://linkedin.com/in/shrikant-pande-24ju1987) 
+ 📫 How to reach me: On LinkedIN 👉🏼 [Shrikant](https://linkedin.com/in/shrikant-pande-sde) 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=im-Shree&color=blueviolet)
